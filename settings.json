@@ -1,0 +1,131 @@
+{
+  // files
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 5000,
+
+  // workbench
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Firefox Dark",
+  "workbench.editorAssociations": {
+    "*.env": "default"
+  },
+
+  // editor global
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+
+  // Code Spell Checker
+  "cSpell.language": "en,ru",
+
+  // eslint
+  "eslint.enable": true,
+  "eslint.validate": ["javascript", "typescript"],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.organizeImports": true
+    }
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.organizeImports": true
+    }
+  },
+
+  // prettier
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // terminal
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  // Path Autocomplete
+  "path-autocomplete.pathMappings": {
+    "@images": "${folder}/src/images",
+    "@styles": "${folder}/src/styles",
+    "@scripts": "${folder}/src/scripts"
+  },
+
+  // stylelint
+  "stylelint.validate": ["css", "scss", "sass"],
+  "[scss]": {
+    "editor.defaultFormatter": "stylelint.vscode-stylelint",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.fixAll.stylelint": true
+    }
+  },
+  "[css]": {
+    "editor.defaultFormatter": "stylelint.vscode-stylelint",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.fixAll.stylelint": true
+    }
+  },
+  "[sass]": {
+    "editor.defaultFormatter": "stylelint.vscode-stylelint",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.fixAll.stylelint": true
+    }
+  },
+
+  // vim
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+    },
+    {
+      "before": ["K"],
+      "commands": ["lineBreakInsert"],
+      "silent": true
+    }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false,
+    "<C-d>": true,
+    "<C-k>": false,
+    "<C-o>": false
+  },
+  "vim.normalModeKeyBindings": [
+    {
+      "before": ["<C-k>", "<C-o>"],
+      "commands": ["workbench.action.files.openFolder"]
+    },
+    {
+      "before": ["<C-o>"],
+      "commands": ["workbench.action.files.openFile"]
+    }
+  ],
+
+  // other
+  "explorer.confirmDelete": false
+}
