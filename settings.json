@@ -113,7 +113,8 @@
     "<C-f>": false,
     "<C-d>": true,
     "<C-k>": false,
-    "<C-o>": false
+    "<C-o>": false,
+    "<C-b>": false
   },
   "vim.normalModeKeyBindings": [
     {
