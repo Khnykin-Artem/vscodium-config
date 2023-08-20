@@ -28,3 +28,5 @@ Path Autocomplete
 Russian - Code Spell Checker
 Stylelint
 TypeScript Toolbox
+Tailwind CSS IntelliSense
+Import Cost
