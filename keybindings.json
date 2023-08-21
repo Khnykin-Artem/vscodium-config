@@ -48,5 +48,10 @@
   {
     "key": "ctrl+shift+f",
     "command": "explorer.newFolder"
+  },
+  {
+    "key": "alt+left",              
+    "command": "workbench.action.terminal.focusPreviousPane",                 
+    "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported" 
   }
 ]
