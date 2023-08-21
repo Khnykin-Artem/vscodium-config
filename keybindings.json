@@ -50,7 +50,7 @@
     "command": "explorer.newFolder"
   },
   {
-    "key": "alt+left",              
+    "key": "alt+h",              
     "command": "workbench.action.terminal.focusPreviousPane",                 
     "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported" 
   }
