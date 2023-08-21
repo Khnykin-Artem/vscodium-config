@@ -55,7 +55,7 @@
     "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported" 
   },
   { 
-    "key": "alt+l"
+    "key": "alt+l",
     "command": "workbench.action.terminal.focusNextPane",          
     "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported" 
   }
