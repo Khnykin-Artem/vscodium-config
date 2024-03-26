@@ -5,7 +5,7 @@
 
   // workbench
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Firefox Dark",
+  "workbench.colorTheme": "Andromeda",
   "workbench.editorAssociations": {
     "*.env": "default"
   },
@@ -23,15 +23,15 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-      "source.organizeImports": true
+      "source.fixAll.eslint": "explicit",
+      "source.organizeImports": "explicit"
     }
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-      "source.organizeImports": true
+      "source.fixAll.eslint": "explicit",
+      "source.organizeImports": "explicit"
     }
   },
 
@@ -61,22 +61,22 @@
   "[scss]": {
     "editor.defaultFormatter": "stylelint.vscode-stylelint",
     "editor.codeActionsOnSave": {
-      "source.fixAll": true,
-      "source.fixAll.stylelint": true
+      "source.fixAll": "explicit",
+      "source.fixAll.stylelint": "explicit"
     }
   },
   "[css]": {
     "editor.defaultFormatter": "stylelint.vscode-stylelint",
     "editor.codeActionsOnSave": {
-      "source.fixAll": true,
-      "source.fixAll.stylelint": true
+      "source.fixAll": "explicit",
+      "source.fixAll.stylelint": "explicit"
     }
   },
   "[sass]": {
     "editor.defaultFormatter": "stylelint.vscode-stylelint",
     "editor.codeActionsOnSave": {
-      "source.fixAll": true,
-      "source.fixAll.stylelint": true
+      "source.fixAll": "explicit",
+      "source.fixAll.stylelint": "explicit"
     }
   },
 
