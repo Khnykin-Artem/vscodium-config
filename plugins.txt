@@ -9,7 +9,6 @@ JavaScript (ES6) code snippets
 Material Icon Theme
 Path Intellisense
 Prettier - Code formatter
-Vim
 Babel JavaScript
 Code Runner
 Code Spell Checker
