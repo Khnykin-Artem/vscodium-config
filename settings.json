@@ -42,9 +42,6 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
 
   // terminal
   "terminal.integrated.defaultProfile.windows": "Git Bash",
@@ -54,30 +51,6 @@
     "@images": "${folder}/src/images",
     "@styles": "${folder}/src/styles",
     "@scripts": "${folder}/src/scripts"
-  },
-
-  // stylelint
-  "stylelint.validate": ["css", "scss", "sass"],
-  "[scss]": {
-    "editor.defaultFormatter": "stylelint.vscode-stylelint",
-    "editor.codeActionsOnSave": {
-      "source.fixAll": "explicit",
-      "source.fixAll.stylelint": "explicit"
-    }
-  },
-  "[css]": {
-    "editor.defaultFormatter": "stylelint.vscode-stylelint",
-    "editor.codeActionsOnSave": {
-      "source.fixAll": "explicit",
-      "source.fixAll.stylelint": "explicit"
-    }
-  },
-  "[sass]": {
-    "editor.defaultFormatter": "stylelint.vscode-stylelint",
-    "editor.codeActionsOnSave": {
-      "source.fixAll": "explicit",
-      "source.fixAll.stylelint": "explicit"
-    }
   },
 
   // other
