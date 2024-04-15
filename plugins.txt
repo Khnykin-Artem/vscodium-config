@@ -21,3 +21,8 @@ Path Autocomplete
 Russian - Code Spell Checker
 TypeScript Toolbox
 Import Cost
+Bash Beautify
+Postman
+SQLTools
+PostgreSQL
+Vscode NestJs Snippets

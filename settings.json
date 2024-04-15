@@ -54,5 +54,8 @@
   },
 
   // other
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
