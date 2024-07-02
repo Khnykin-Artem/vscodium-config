@@ -5,7 +5,7 @@
 
   // workbench
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Andromeda",
+  "workbench.colorTheme": "GitHub Dark Default",
   "workbench.editorAssociations": {
     "*.env": "default"
   },
@@ -17,7 +17,7 @@
   // Code Spell Checker
   "cSpell.language": "en,ru",
 
-  // eslint
+  // JavaScript, TypeScript
   "eslint.enable": true,
   "eslint.validate": ["javascript", "typescript"],
   "[typescript]": {
@@ -35,11 +35,16 @@
     }
   },
 
-  // prettier
+  // JSON
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // HTML
+  "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
@@ -53,9 +58,30 @@
     "@scripts": "${folder}/src/scripts"
   },
 
+  // CSS, SCSS, LESS, SASS
+  "stylelint.enable": true,
+  "stylelint.validate": ["css", "scss", "less", "sass"],
+  "[css]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.stylelint": "explicit"
+    }
+  },
+  "[scss]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.stylelint": "explicit"
+    }
+  },
+  "[less]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.stylelint": "explicit"
+    }
+  },
+  "[sass]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.stylelint": "explicit"
+    }
+  },
+
   // other
-  "explorer.confirmDelete": false,
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  "explorer.confirmDelete": false
 }

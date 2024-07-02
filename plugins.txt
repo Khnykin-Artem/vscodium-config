@@ -1,6 +1,5 @@
-Andromeda
+GitHub Theme
 GitLens — Git supercharged
-IntelliCode
 JavaScript (ES6) code snippets
 Material Icon Theme
 Path Intellisense
@@ -13,16 +12,19 @@ Error Lens
 ESLint
 Git History
 gitignore
-IntelliCode API Usage Examples
-JavaScript Booster
-json
 Open in GitHub, Bitbucket, Gitlab, VisualStudio.com !
 Path Autocomplete
 Russian - Code Spell Checker
-TypeScript Toolbox
 Import Cost
-Bash Beautify
-Postman
-SQLTools
-PostgreSQL
-Vscode NestJs Snippets
+Bash IDE
+Live Server
+Angular Language Service
+HTML Tree
+Stylelint
+HTML to SCSS
+Tailwind CSS IntelliSense
+Image preview
+Pretty TypeScript Errors
+Auto Rename Tag
+Typescript Angular/RxJs/NgRx Snippets
+Auto Close Tag          
