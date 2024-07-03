@@ -16,7 +16,6 @@ Open in GitHub, Bitbucket, Gitlab, VisualStudio.com !
 Path Autocomplete
 Russian - Code Spell Checker
 Import Cost
-Bash IDE
 Live Server
 Angular Language Service
 HTML Tree
@@ -27,4 +26,6 @@ Image preview
 Pretty TypeScript Errors
 Auto Rename Tag
 Typescript Angular/RxJs/NgRx Snippets
-Auto Close Tag          
+Auto Close Tag 
+C/C++ Extension Pack 
+TS/JS postfix completion        
