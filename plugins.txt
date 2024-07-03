@@ -28,4 +28,5 @@ Auto Rename Tag
 Typescript Angular/RxJs/NgRx Snippets
 Auto Close Tag 
 C/C++ Extension Pack 
-TS/JS postfix completion        
+TS/JS postfix completion    
+Font Preview
