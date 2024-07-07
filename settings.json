@@ -4,8 +4,6 @@
   "files.autoSaveDelay": 5000,
 
   // workbench
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "GitHub Dark Default",
   "workbench.editorAssociations": {
     "*.env": "default"
   },

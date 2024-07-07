@@ -1,7 +1,4 @@
-GitHub Theme
-GitLens — Git supercharged
 JavaScript (ES6) code snippets
-Material Icon Theme
 Path Intellisense
 Prettier - Code formatter
 Babel JavaScript
@@ -10,9 +7,7 @@ Code Spell Checker
 EditorConfig for VS Code
 Error Lens
 ESLint
-Git History
 gitignore
-Open in GitHub, Bitbucket, Gitlab, VisualStudio.com !
 Path Autocomplete
 Russian - Code Spell Checker
 Import Cost
