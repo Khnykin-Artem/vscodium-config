@@ -4,6 +4,8 @@
   "files.autoSaveDelay": 5000,
 
   // workbench
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "opensumi-dark",
   "workbench.editorAssociations": {
     "*.env": "default"
   },

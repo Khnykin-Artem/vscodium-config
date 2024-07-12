@@ -26,3 +26,6 @@ TS/JS postfix completion
 Font Preview
 Vue - Official
 Vetur
+Better Comments
+Material Icon Theme
+OpenSumi Default Themes
