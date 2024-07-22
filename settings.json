@@ -37,6 +37,11 @@
     }
   },
 
+  // Vue
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
   // JSON
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
