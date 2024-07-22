@@ -21,7 +21,6 @@ Pretty TypeScript Errors
 Auto Rename Tag
 Typescript Angular/RxJs/NgRx Snippets
 Auto Close Tag 
-C/C++ Extension Pack 
 TS/JS postfix completion    
 Font Preview
 Vue - Official
@@ -29,3 +28,7 @@ Vetur
 Better Comments
 Material Icon Theme
 OpenSumi Default Themes
+Angular Language Service
+Git Extension Pack
+React - Javascript snippets
+React - Typescript snippets (XAcademy)
