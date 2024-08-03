@@ -13,7 +13,6 @@
   // editor global
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
-  "editor.fontFamily": "'CodeNewRoman'",
   "editor.fontSize": 14,
 
   // Code Spell Checker
@@ -54,10 +53,6 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-
-  // terminal
-  "terminal.integrated.defaultProfile.osx": "zsh",
-  "terminal.integrated.fontFamily": "CodeNewRoman Nerd Font",
 
   // Path Autocomplete
   "path-autocomplete.pathMappings": {
