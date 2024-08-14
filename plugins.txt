@@ -7,14 +7,11 @@ Code Spell Checker
 EditorConfig for VS Code
 Error Lens
 ESLint
-gitignore
 Path Autocomplete
 Russian - Code Spell Checker
 Import Cost
 Live Server
-HTML Tree
 Stylelint
-HTML to SCSS
 Tailwind CSS IntelliSense
 Image preview
 Pretty TypeScript Errors
@@ -29,6 +26,6 @@ Better Comments
 Material Icon Theme
 OpenSumi Default Themes
 Angular Language Service
-Git Extension Pack
 React - Javascript snippets
-React - Typescript snippets (XAcademy)
+HTML CSS Support
+
