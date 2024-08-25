@@ -30,3 +30,5 @@ React - Javascript snippets
 HTML CSS Support
 SVG
 Javascript Auto Backticks
+Git Graph
+Multiple cursor case preserver
