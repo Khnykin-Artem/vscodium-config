@@ -28,4 +28,5 @@ OpenSumi Default Themes
 Angular Language Service
 React - Javascript snippets
 HTML CSS Support
-
+SVG
+Javascript Auto Backticks
