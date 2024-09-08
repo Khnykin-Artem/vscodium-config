@@ -58,7 +58,8 @@
   "path-autocomplete.pathMappings": {
     "@images": "${folder}/src/images",
     "@styles": "${folder}/src/styles",
-    "@scripts": "${folder}/src/scripts"
+    "@scripts": "${folder}/src/scripts",
+    "@": "${folder}/src"
   },
 
   // CSS, SCSS, LESS, SASS
