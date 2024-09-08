@@ -5,7 +5,7 @@
 
   // workbench
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "opensumi-dark",
+  "workbench.colorTheme": "oh-lucy-evening",
   "workbench.editorAssociations": {
     "*.env": "default"
   },
