@@ -1,11 +1,11 @@
 {
   // files
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 5000,
+  "files.autoSaveDelay": 3000,
 
   // workbench
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "oh-lucy-evening",
+  "workbench.colorTheme": "Kanagawa Dragon",
   "workbench.editorAssociations": {
     "*.env": "default"
   },
@@ -86,6 +86,6 @@
     }
   },
 
-  // other
+  // explorer
   "explorer.confirmDelete": false
 }
