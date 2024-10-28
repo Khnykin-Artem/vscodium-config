@@ -8,7 +8,7 @@
     "command": "workbench.files.action.createFileFromExplorer"
   },
   {
-    "key": "jk",
-    "command": "workbench.action.terminal.focusNext"
+    "key": "ctrl+j",
+    "command": "workbench.action.terminal.focusNextPane"
   }
 ]
