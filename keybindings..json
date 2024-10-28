@@ -1,0 +1,14 @@
+[
+  {
+    "key": "ctrl+shift+n",
+    "command": "workbench.files.action.createFolderFromExplorer"
+  },
+  {
+    "key": "ctrl+n",
+    "command": "workbench.files.action.createFileFromExplorer"
+  },
+  {
+    "key": "jk",
+    "command": "workbench.action.terminal.focusNext"
+  }
+]

@@ -5,7 +5,7 @@
 
   // workbench
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Kanagawa Dragon",
+  "workbench.colorTheme": "oh-lucy-evening",
   "workbench.editorAssociations": {
     "*.env": "default"
   },
@@ -84,6 +84,42 @@
     "editor.codeActionsOnSave": {
       "source.fixAll.stylelint": "explicit"
     }
+  },
+
+  // VIM
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+    },
+    {
+      "before": ["K"],
+      "commands": ["lineBreakInsert"],
+      "silent": true
+    }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false
+  },
+  "extensions.experimental.affinity": {
+    "vscodevim.vim": 1
   },
 
   // explorer

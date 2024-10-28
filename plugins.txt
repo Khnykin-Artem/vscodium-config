@@ -11,10 +11,9 @@ Image preview
 Import Cost
 JavaScript (ES6) code snippets
 Javascript Auto Backticks
-Kanagawa Flavors
+oh lucy
 Live Server
 Material Icon Theme
-Multiple cursor case preserver
 Path Autocomplete
 Path Intellisense
 Prettier - Code formatter
@@ -28,3 +27,4 @@ TS/JS postfix completion
 Typescript Angular/RxJs/NgRx Snippets
 Vetur
 Vue - Official
+Vim
